@@ -11,6 +11,21 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ecanali&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ecanali&layout=compact)
 
+### Main Projects 👨‍💻
+// Foodfy: HTML, CSS and JavaScript, back-end with Node:
+
+<a href="https://github.com/ecanali/foodfy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ecanali&repo=foodfy" />
+</a>
+
+&nbsp;
+ 
+// RecipeLib: HTML, CSS, JavaScript and Python, back-end with Django:
+
+<a href="https://github.com/ecanali/coding-exercises/tree/main/cs50-capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ecanali&repo=coding-exercises" />
+</a>
+
 ### Main Programming Language 👨‍
 - JavaScript <img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="40px">
 
