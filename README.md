@@ -17,6 +17,8 @@
 <a href="https://github.com/ecanali/foodfy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ecanali&repo=foodfy" />
 </a>
+
+&nbsp;
  
 // RecipeLib: HTML, CSS, JavaScript and Python, back-end with Django:
 
