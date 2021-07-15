@@ -6,10 +6,13 @@
 
 - Currently learning React and graduating in Bachelor of Science in Computer Science.
 
-- More about me: <a href="https://www.linkedin.com/in/erickcanali/">LinkedIn</a>
+- My professional profile: <a href="https://www.linkedin.com/in/erickcanali/">LinkedIn</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ecanali&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ecanali&layout=compact)
+
+<details>
+<summary>Click here to see MORE ABOUT ME</summary>
 
 ### Main Projects 👨‍💻
 // Foodfy: HTML, CSS and JavaScript, back-end with Node:
@@ -37,5 +40,7 @@
 - Accessibility
 - Clean Code
 - Problem solving
+  
+</details>
 
 ### 📫 How to reach me: <a href="mailto:erick.canali@gmail.com">Email</a>
