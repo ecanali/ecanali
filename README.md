@@ -1,6 +1,6 @@
 # Hi there 👋 ERICK here!
 
-- 10 years experience working with sales in the areas of internet, advertising and technology. I worked from startups to multinationals. I have a degree in the field of business administration.
+- Solid soft skills developed over 10 years working with sales in the areas of internet, advertising and technology. I've been from startups to multinationals. I have a degree in the field of business administration.
 
 - 1 year experience working with software development. Knowledgeable in front-end and back-end web programming with HTML, CSS, JavaScript, Python and SQL.
 
