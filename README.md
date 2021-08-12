@@ -1,11 +1,9 @@
 # Hi there 👋 ERICK here!
 
-- Solid soft skills developed over 10 years working with sales in the areas of internet, advertising and technology. I've been from startups to multinationals. I have a degree in the field of business administration.
-
-- 1 year experience working with software development. Knowledgeable in front-end and back-end web programming with HTML, CSS, JavaScript, Python and SQL.
-
-- Currently learning React and graduating in Bachelor of Science in Computer Science.
-
+- I'm a developer knowledgeable in full stack web programming using mainly HTML5, CSS3 and JavaScript (ES6+).
+- Application of UX/UI concepts, responsive design, semantics and accessibility.
+- Frameworks and tools used: (front-end) React with Typescript, Sass and Bootstrap | (backend) JavaScript with Node.js and Python with Django, PostgreSQL and SQLite databases.
+- Graduating in Bachelor of Science in Computer Science.
 - My professional profile: <a href="https://www.linkedin.com/in/erickcanali/">LinkedIn</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ecanali&theme=highcontrast&show_icons=true&count_private=true)
