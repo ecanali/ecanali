@@ -2,7 +2,7 @@
 
 - I'm a developer experienced in full stack web programming using mainly HTML5, CSS3 and JavaScript (ES6+).
 - Application of UX/UI concepts, responsive design, semantics and accessibility.
-- Frameworks and tools used: (front-end) React with TypeScript, Sass and Bootstrap | (back-end) JavaScript with Node.js and Python with Django, PostgreSQL and SQLite databases.
+- Frameworks and tools used: (front-end) React with TypeScript, Angular, Sass and Bootstrap | (back-end) JavaScript with Node.js and Python with Django, PostgreSQL and SQLite databases.
 - Graduating in Bachelor of Science in Computer Science.
 - My professional profile: <a href="https://www.linkedin.com/in/erickcanali/">LinkedIn</a>
 
