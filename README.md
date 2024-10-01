@@ -1,6 +1,6 @@
 # Hi there 👋 ERICK here!
 
-- Front-end developer with 3+ years of professional experience, specializing in remote work for large companies.
+- Front-end developer with 4+ years of professional experience, specializing in remote work for large companies.
 - In recent years I have focused my work on private projects from companies I am employed by and on my own commercial web application (code not publicly available but you can check out a quick video demonstration at <a href="https://sellerup.app/front">my app's page here</a>).
 - Graduating in Bachelor of Science in Computer Science.
 - Expertise in using the Angular framework and TypeScript for daily development tasks.
