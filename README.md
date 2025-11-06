@@ -7,7 +7,7 @@
 
 ## 🚀 Highlight — SellerUp (product)
 **SellerUp — product case study** · Built the B2B SaaS + Chrome extension.  
-**TL;DR:** Built product end-to-end; **$10K MRR · 1.5K MAU · 170K+ API requests/mo**.  
+**TL;DR:** Built product end-to-end; **$10K MRR · 1.7K MAU · 220K+ API requests/mo**.  
 [![Read case study on Gamma](https://img.shields.io/badge/Read%20case%20study-Gamma-blue?logo=gamma&style=for-the-badge)](https://gamma.app/docs/Case-Study-Building-SellerUp-a-Profitable-B2B-SaaS-from-Concept-t-6pcrnf23qdq9246)
 
 **Pinned:** check the `sellerup-case-study` repo for more info.
