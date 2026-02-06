@@ -1,4 +1,4 @@
-# Erick Canali — Frontend Engineer (React · TypeScript · Remote Brazil) — Open to US roles (EST/PST overlap)
+# Erick Canali — Frontend Engineer (React · TypeScript · Remote Brazil)
 
 > I build product-focused frontends with strong attention to UX, accessibility and business outcomes.  
 > 4+ years in software engineering + 10+ years in B2B sales (product-minded engineer).
@@ -23,12 +23,6 @@ TypeScript · React · Next.js · Angular · Plasmo (Chrome extension) · Tailwi
 - LinkedIn: https://www.linkedin.com/in/erickcanali  
 - Email: erick.canali@gmail.com  
 - Timezone: UTC-3 (Porto Alegre, Brazil) — available for overlap with US working hours.
-
----
-
-## 📣 Open to
-- Full-time remote roles (US-based companies) — Frontend Engineer, React/TypeScript focus.  
-- Opportunities where I can impact product metrics and lead frontend architecture.
 
 ---
   
